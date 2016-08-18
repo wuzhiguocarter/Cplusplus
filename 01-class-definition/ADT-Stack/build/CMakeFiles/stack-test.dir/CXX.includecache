@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wuzhiguo/Desktop/OpenCV3/prerequisites/Cplusplus/01-class-definition/ADT-Stack/main.cpp
+iostream
+-
+ctype.h
+-
+stack.h
+/home/wuzhiguo/Desktop/OpenCV3/prerequisites/Cplusplus/01-class-definition/ADT-Stack/stack.h
+
+/home/wuzhiguo/Desktop/OpenCV3/prerequisites/Cplusplus/01-class-definition/ADT-Stack/stack.cpp
+stack.h
+/home/wuzhiguo/Desktop/OpenCV3/prerequisites/Cplusplus/01-class-definition/ADT-Stack/stack.h
+
+/home/wuzhiguo/Desktop/OpenCV3/prerequisites/Cplusplus/01-class-definition/ADT-Stack/stack.h
+

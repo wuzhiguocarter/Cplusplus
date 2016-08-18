@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wuzhiguo/Desktop/OpenCV3/prerequisites/Cplusplus/01-class-definition/constructor-and-destructor/stock.cpp
+iostream
+-
+cstring
+-
+

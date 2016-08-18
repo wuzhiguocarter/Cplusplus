@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/stock.dir/main.o CMakeFiles/stock.dir/stock.o  -o stock -rdynamic 

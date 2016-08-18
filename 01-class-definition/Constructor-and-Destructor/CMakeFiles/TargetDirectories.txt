@@ -1,0 +1,1 @@
+/home/wuzhiguo/Desktop/OpenCV3/prerequisites/Cplusplus/01-class-definition/constructor-and-destructor/CMakeFiles/stock.dir

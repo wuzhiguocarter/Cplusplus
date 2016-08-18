@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/Mytime-main.dir/mytime.cpp.o CMakeFiles/Mytime-main.dir/main.cpp.o  -o Mytime-main -rdynamic 

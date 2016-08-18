@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wuzhiguo/Desktop/OpenCV3/prerequisites/Cplusplus/01-class-definition/MultiFiles/src/main.cpp
+iostream
+-
+cstring
+-
+stock.h
+/home/wuzhiguo/Desktop/OpenCV3/prerequisites/Cplusplus/01-class-definition/MultiFiles/src/stock.h
+
+/home/wuzhiguo/Desktop/OpenCV3/prerequisites/Cplusplus/01-class-definition/MultiFiles/src/stock.cpp
+iostream
+-
+cstring
+-
+stock.h
+/home/wuzhiguo/Desktop/OpenCV3/prerequisites/Cplusplus/01-class-definition/MultiFiles/src/stock.h
+
+/home/wuzhiguo/Desktop/OpenCV3/prerequisites/Cplusplus/01-class-definition/MultiFiles/src/stock.h
+

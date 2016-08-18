@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wuzhiguo/Desktop/OpenCV3/prerequisites/Cplusplus/02-use-class/operator-overloading/main.cpp
+iostream
+-
+mytime.h
+/home/wuzhiguo/Desktop/OpenCV3/prerequisites/Cplusplus/02-use-class/operator-overloading/mytime.h
+
+/home/wuzhiguo/Desktop/OpenCV3/prerequisites/Cplusplus/02-use-class/operator-overloading/mytime.cpp
+mytime.h
+/home/wuzhiguo/Desktop/OpenCV3/prerequisites/Cplusplus/02-use-class/operator-overloading/mytime.h
+
+/home/wuzhiguo/Desktop/OpenCV3/prerequisites/Cplusplus/02-use-class/operator-overloading/mytime.h
+iostream
+-
+
