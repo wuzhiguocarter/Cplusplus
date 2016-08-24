@@ -3,7 +3,7 @@
 
 # Relative path conversion top directories.
 set(CMAKE_RELATIVE_PATH_TOP_SOURCE "C:/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue")
-set(CMAKE_RELATIVE_PATH_TOP_BINARY "C:/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/build")
+set(CMAKE_RELATIVE_PATH_TOP_BINARY "C:/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/build/win")
 
 # Force unix paths in dependencies.
 set(CMAKE_FORCE_UNIX_PATHS 1)

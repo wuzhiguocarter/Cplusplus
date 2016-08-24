@@ -46,7 +46,7 @@ EQUALS = =
 CMAKE_SOURCE_DIR = /C/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /C/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/build
+CMAKE_BINARY_DIR = /C/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/build/win
 
 # Include any dependencies generated for this target.
 include CMakeFiles/bank_test.dir/depend.make
@@ -58,8 +58,8 @@ include CMakeFiles/bank_test.dir/progress.make
 include CMakeFiles/bank_test.dir/flags.make
 
 CMakeFiles/bank_test.dir/bank.cpp.obj: CMakeFiles/bank_test.dir/flags.make
-CMakeFiles/bank_test.dir/bank.cpp.obj: ../bank.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/C/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/bank_test.dir/bank.cpp.obj"
+CMakeFiles/bank_test.dir/bank.cpp.obj: ../../bank.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/C/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/build/win/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/bank_test.dir/bank.cpp.obj"
 	/C/MinGW/bin/g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/bank_test.dir/bank.cpp.obj -c /C/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/bank.cpp
 
 CMakeFiles/bank_test.dir/bank.cpp.i: cmake_force
@@ -82,8 +82,8 @@ CMakeFiles/bank_test.dir/bank.cpp.obj.provides.build: CMakeFiles/bank_test.dir/b
 
 
 CMakeFiles/bank_test.dir/queue.cpp.obj: CMakeFiles/bank_test.dir/flags.make
-CMakeFiles/bank_test.dir/queue.cpp.obj: ../queue.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/C/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/bank_test.dir/queue.cpp.obj"
+CMakeFiles/bank_test.dir/queue.cpp.obj: ../../queue.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/C/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/build/win/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/bank_test.dir/queue.cpp.obj"
 	/C/MinGW/bin/g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/bank_test.dir/queue.cpp.obj -c /C/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/queue.cpp
 
 CMakeFiles/bank_test.dir/queue.cpp.i: cmake_force
@@ -118,7 +118,7 @@ bank_test.exe: CMakeFiles/bank_test.dir/queue.cpp.obj
 bank_test.exe: CMakeFiles/bank_test.dir/build.make
 bank_test.exe: CMakeFiles/bank_test.dir/linklibs.rsp
 bank_test.exe: CMakeFiles/bank_test.dir/objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/C/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable bank_test.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/C/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/build/win/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable bank_test.exe"
 	"/C/Program Files/CMake/bin/cmake.exe" -E remove -f CMakeFiles/bank_test.dir/objects.a
 	/C/MinGW/bin/ar.exe cr CMakeFiles/bank_test.dir/objects.a @CMakeFiles/bank_test.dir/objects1.rsp
 	/C/MinGW/bin/g++.exe     -Wl,--whole-archive CMakeFiles/bank_test.dir/objects.a -Wl,--no-whole-archive  -o bank_test.exe -Wl,--out-implib,libbank_test.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/bank_test.dir/linklibs.rsp
@@ -138,6 +138,6 @@ CMakeFiles/bank_test.dir/clean:
 .PHONY : CMakeFiles/bank_test.dir/clean
 
 CMakeFiles/bank_test.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MSYS Makefiles" /C/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue /C/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue /C/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/build /C/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/build /C/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/build/CMakeFiles/bank_test.dir/DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MSYS Makefiles" /C/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue /C/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue /C/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/build/win /C/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/build/win /C/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/build/win/CMakeFiles/bank_test.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/bank_test.dir/depend
 

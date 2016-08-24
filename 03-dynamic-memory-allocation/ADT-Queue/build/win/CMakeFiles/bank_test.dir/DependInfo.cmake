@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/bank.cpp" "C:/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/build/CMakeFiles/bank_test.dir/bank.cpp.obj"
-  "C:/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/queue.cpp" "C:/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/build/CMakeFiles/bank_test.dir/queue.cpp.obj"
+  "C:/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/bank.cpp" "C:/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/build/win/CMakeFiles/bank_test.dir/bank.cpp.obj"
+  "C:/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/queue.cpp" "C:/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/build/win/CMakeFiles/bank_test.dir/queue.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

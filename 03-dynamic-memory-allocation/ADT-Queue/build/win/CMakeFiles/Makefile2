@@ -57,7 +57,7 @@ EQUALS = =
 CMAKE_SOURCE_DIR = /C/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /C/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/build
+CMAKE_BINARY_DIR = /C/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/build/win
 
 #=============================================================================
 # Target rules for target CMakeFiles/bank_test.dir
@@ -66,7 +66,7 @@ CMAKE_BINARY_DIR = /C/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-al
 CMakeFiles/bank_test.dir/all:
 	$(MAKE) -f CMakeFiles/bank_test.dir/build.make CMakeFiles/bank_test.dir/depend
 	$(MAKE) -f CMakeFiles/bank_test.dir/build.make CMakeFiles/bank_test.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/C/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/build/CMakeFiles --progress-num=1,2,3 "Built target bank_test"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/C/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/build/win/CMakeFiles --progress-num=1,2,3 "Built target bank_test"
 .PHONY : CMakeFiles/bank_test.dir/all
 
 # Include target in all.
@@ -76,9 +76,9 @@ all: CMakeFiles/bank_test.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/bank_test.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /C/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/build/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /C/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/build/win/CMakeFiles 3
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/bank_test.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /C/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /C/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/build/win/CMakeFiles 0
 .PHONY : CMakeFiles/bank_test.dir/rule
 
 # Convenience name for target.
