@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/bank.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+queue.h
+C:/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/queue.h
+
+C:/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/queue.cpp
+queue.h
+C:/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/queue.h
+cstdlib
+-
+
+C:/Users/Administrator/Desktop/Cplusplus/03-dynamic-memory-allocation/ADT-Queue/queue.h
+
