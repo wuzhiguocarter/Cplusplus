@@ -1,0 +1,3 @@
+C:/Users/Administrator/Desktop/Cplusplus/04-Class-Inheritance/abstract-base-class/build/win/CMakeFiles/acctabc_test.dir
+C:/Users/Administrator/Desktop/Cplusplus/04-Class-Inheritance/abstract-base-class/build/win/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/Cplusplus/04-Class-Inheritance/abstract-base-class/build/win/CMakeFiles/rebuild_cache.dir

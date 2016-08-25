@@ -5,13 +5,12 @@ cmake_minimum_required (VERSION 2.8)
 #message("Build Type:"${CMAKE_BUILD_TYPE} ${CMAKE_CXX_FLAGS})
 
 # 项目信息
-project (BRASS)
+project (ACCTABC)
 
 # 查找目录下的所有源文件
 # 并将名称保存到 DIR_SRCS 变量
-#aux_source_directory(. DIR_SRCS)
+aux_source_directory(. DIR_SRCS)
 #set(DIR_SRCS usebrass2.cpp brass.cpp)
-set(DIR_SRCS usebrass1.cpp brass.cpp)
 
 # 指定生成目标
-add_executable(brass_test ${DIR_SRCS})
+add_executable(acctabc_test ${DIR_SRCS})

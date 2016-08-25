@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Administrator/Desktop/Cplusplus/04-Class-Inheritance/abstract-base-class/acctabc.cpp
+iostream
+-
+acctabc.h
+C:/Users/Administrator/Desktop/Cplusplus/04-Class-Inheritance/abstract-base-class/acctabc.h
+
+C:/Users/Administrator/Desktop/Cplusplus/04-Class-Inheritance/abstract-base-class/acctabc.h
+iostream
+-
+string
+-
+
+C:/Users/Administrator/Desktop/Cplusplus/04-Class-Inheritance/abstract-base-class/usebrass3.cpp
+iostream
+-
+string
+-
+acctabc.h
+C:/Users/Administrator/Desktop/Cplusplus/04-Class-Inheritance/abstract-base-class/acctabc.h
+
