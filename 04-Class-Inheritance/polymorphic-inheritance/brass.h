@@ -20,7 +20,7 @@ public:
 	virtual ~Brass() {}
 };
 //Brass Plus Account Class
-class BrassPlus : public Brass
+class BrassPlus : public Brass // public inheritance "is-a"
 {
 private:
 	double maxLoan;

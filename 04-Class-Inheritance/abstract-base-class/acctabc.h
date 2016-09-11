@@ -30,7 +30,7 @@ public:
 	virtual ~AcctABC() {}
 };
 // Brass Account Class
-class Brass : public AcctABC
+class Brass : public AcctABC // public inheritance "is-a"
 {
 public :
 	Brass( const std::string & s =  "Nullbody" , long an = - 1 ,

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wuzhiguo/Desktop/ComputerVision/prerequisites/Cplusplus/05-reusing-code/Private-Inheritance/main.cpp
+student.h
+/home/wuzhiguo/Desktop/ComputerVision/prerequisites/Cplusplus/05-reusing-code/Private-Inheritance/student.h
+
+/home/wuzhiguo/Desktop/ComputerVision/prerequisites/Cplusplus/05-reusing-code/Private-Inheritance/student.cpp
+student.h
+/home/wuzhiguo/Desktop/ComputerVision/prerequisites/Cplusplus/05-reusing-code/Private-Inheritance/student.h
+
+/home/wuzhiguo/Desktop/ComputerVision/prerequisites/Cplusplus/05-reusing-code/Private-Inheritance/student.h
+iostream
+-
+valarray
+-
+string
+-
+

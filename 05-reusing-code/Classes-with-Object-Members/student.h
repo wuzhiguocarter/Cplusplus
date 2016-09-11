@@ -12,7 +12,7 @@ class Student
 private:
 	typedef valarray<double> ArrayDb;
 	string name;
-	ArrayDb scores;
+	ArrayDb scores; // class containing object "has-a"
 
 	// private method
 	ostream & arr_out(ostream & os) const;
@@ -29,6 +29,7 @@ public:
 
 	double Average() const;
 	const string & Name() const;
+	
 	double & operator[] (int i);
 	double operator[] (int i) const;
 

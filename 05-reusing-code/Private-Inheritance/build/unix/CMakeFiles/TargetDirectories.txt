@@ -1,0 +1,1 @@
+/home/wuzhiguo/Desktop/ComputerVision/prerequisites/Cplusplus/05-reusing-code/Private-Inheritance/build/unix/CMakeFiles/student_test.dir
