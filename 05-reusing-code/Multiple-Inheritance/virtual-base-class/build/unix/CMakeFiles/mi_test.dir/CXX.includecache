@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wuzhiguo/Desktop/ComputerVision/prerequisites/Cplusplus/05-reusing-code/Multiple-Inheritance/virtual-base-class/workermi.cpp
+workermi.h
+/home/wuzhiguo/Desktop/ComputerVision/prerequisites/Cplusplus/05-reusing-code/Multiple-Inheritance/virtual-base-class/workermi.h
+iostream
+-
+
+/home/wuzhiguo/Desktop/ComputerVision/prerequisites/Cplusplus/05-reusing-code/Multiple-Inheritance/virtual-base-class/workermi.h
+string
+-
+
+/home/wuzhiguo/Desktop/ComputerVision/prerequisites/Cplusplus/05-reusing-code/Multiple-Inheritance/virtual-base-class/workmi.cpp
+iostream
+-
+cstring
+-
+workermi.h
+/home/wuzhiguo/Desktop/ComputerVision/prerequisites/Cplusplus/05-reusing-code/Multiple-Inheritance/virtual-base-class/workermi.h
+

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wuzhiguo/Desktop/ComputerVision/prerequisites/Cplusplus/05-reusing-code/Multiple-Inheritance/polymorphic-array-of-pointers/worker0.cpp
+worker0.h
+/home/wuzhiguo/Desktop/ComputerVision/prerequisites/Cplusplus/05-reusing-code/Multiple-Inheritance/polymorphic-array-of-pointers/worker0.h
+iostream
+-
+
+/home/wuzhiguo/Desktop/ComputerVision/prerequisites/Cplusplus/05-reusing-code/Multiple-Inheritance/polymorphic-array-of-pointers/worker0.h
+string
+-
+
+/home/wuzhiguo/Desktop/ComputerVision/prerequisites/Cplusplus/05-reusing-code/Multiple-Inheritance/polymorphic-array-of-pointers/worktest.cpp
+iostream
+-
+worker0.h
+/home/wuzhiguo/Desktop/ComputerVision/prerequisites/Cplusplus/05-reusing-code/Multiple-Inheritance/polymorphic-array-of-pointers/worker0.h
+

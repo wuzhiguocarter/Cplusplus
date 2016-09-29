@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/work_test.dir/worktest.cpp.o CMakeFiles/work_test.dir/worker0.cpp.o  -o work_test -rdynamic 

@@ -1,9 +1,9 @@
 #include "student.h"
-// using std::ostream;
-// using std::endl;
-// using std::istream;
-// using std::string;
-using namespace std;
+using std::ostream;
+using std::endl;
+using std::istream;
+using std::string;
+
 // public methods
 double Student::Average() const
 {

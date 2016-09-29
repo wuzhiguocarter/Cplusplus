@@ -13,6 +13,7 @@ git commit -m "xxx"
 
 #添加远程库，并将本地库与远程库关联起来
 git remote add origin git@github.com:wuzhiguocarter/Cplusplus.git
+git remote add origin git@github.com:wuzhiguocarter/ToDoList.git
 git push -u origin master
 
 #update local repo from remote repo

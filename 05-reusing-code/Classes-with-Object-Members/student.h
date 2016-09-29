@@ -7,12 +7,13 @@
 
 using namespace std;
 
+// class containing object "has-a"
 class Student
 {
 private:
 	typedef valarray<double> ArrayDb;
 	string name;
-	ArrayDb scores; // class containing object "has-a"
+	ArrayDb scores; 
 
 	// private method
 	ostream & arr_out(ostream & os) const;

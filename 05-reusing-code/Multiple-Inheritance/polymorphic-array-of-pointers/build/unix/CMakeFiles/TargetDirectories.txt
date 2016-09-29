@@ -1,0 +1,1 @@
+/home/wuzhiguo/Desktop/ComputerVision/prerequisites/Cplusplus/05-reusing-code/Multiple-Inheritance/polymorphic-array-of-pointers/build/unix/CMakeFiles/work_test.dir

@@ -1,16 +1,17 @@
 #include "student.h"
 
-// using namespace std;
+using namespace std;
 
 void set(Student & sa, int n);
 const int pupils = 3;
-const int quizzes = 5;
+const int quizzes = 4;
 
 int main(int argc, char const *argv[])
 {
 	Student ada[pupils] = {
 		Student(quizzes), Student(quizzes), Student(quizzes)
 	};
+
 	for(int i = 0; i < pupils; i++)
 	{
 		set(ada[i], quizzes);
@@ -26,6 +27,8 @@ int main(int argc, char const *argv[])
 		cout << endl << ada[i];
 		cout << "average: " << ada[i].Average() << endl;
 	}
+
+	cout << "Max scores of ada[0]:" << ada[0].max() << "\n";
 
 	cout << "Done.\n";
 
