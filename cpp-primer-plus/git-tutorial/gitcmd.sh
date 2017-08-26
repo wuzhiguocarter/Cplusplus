@@ -17,4 +17,5 @@ git remote add origin git@github.com:wuzhiguocarter/ToDoList.git
 git push -u origin master
 
 #update local repo from remote repo
+git fetch
 git pull
